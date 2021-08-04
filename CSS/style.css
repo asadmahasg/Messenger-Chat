@@ -1,0 +1,53 @@
+body{
+    background: url('../images/back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.max-width{
+    background: oldlace;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 5px;
+}
+.insider{
+}
+.heading{
+    background: rgb(0, 38, 255);
+    display: flex;
+    position: relative;
+    align-items: center;
+    padding: 0px 20px 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.heading .fa{
+    color: white;
+}
+#circle{
+    
+}
+#name{
+    margin-left: 10px;
+    color: white;
+}
+#close{
+    position: absolute;
+    right: 0%;
+    margin-right: 20px;
+    font-weight: 100;
+}
+.insider .center{
+    background: white;
+    height: 390px;   
+    scroll-behavior: auto; 
+}
+.bottom{
+    
+}
+#enter-message{
+    border-style: none;
+    height: 100%;
+    
+}
